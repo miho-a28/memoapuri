@@ -37,7 +37,7 @@
     end
   end
   
-  def attimuite_hoi
+  def attimuite
       puts"あっち向いて〜"
       puts"0(上)1(下)2(左)3(右)"
       
@@ -62,4 +62,4 @@
   end    
    
 
-attimuite_hoi
+attimuite
